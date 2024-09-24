@@ -38,8 +38,8 @@ def takeCommand():
 
 if __name__ == '__main__':
 
-    print("Hello Mr. Akhilesh, I am jarvis ,How can i assist you , sir")
-    say("Hello Mr. Akhilesh, I am jarvis ,How can i assist you , sir")
+    print("Hello Mr. Pramod, I am jarvis ,How can i assist you , sir")
+    say("Hello Mr. Pramod, I am jarvis ,How can i assist you , sir")
     while True:
         print("Listening...")
         query = takeCommand()
